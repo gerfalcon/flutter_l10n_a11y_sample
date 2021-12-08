@@ -1,6 +1,6 @@
-# flutter_a11y_sample_app
+# flutter_l10n_a11y_sample
 
-A Flutter project to showcase how we can support multiple important accessibility features.
+A Flutter project to showcase how we can support multiple important `localization` and `accessibility` features.
 
 ## Getting Started
 
