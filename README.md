@@ -2,7 +2,7 @@
 
 A Flutter project demonstrating support for localization and accessibility features and used for the following [How to make your Flutter app accessible - 12/2021](https://youtu.be/VGfzT_AuVPI?t=3240) talk I gave at the December 2021 HWSW free! Meetup online event in Hungarian.
 - Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible).
-- Recording on [YouTube](https://youtu.be/VGfzT_AuVPI?t=3240)
+- Recording on [YouTube](https://youtu.be/VmB_KLk28f8?t=5)
 
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="400"/>
