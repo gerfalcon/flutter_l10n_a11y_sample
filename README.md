@@ -1,17 +1,16 @@
 # flutter_l10n_a11y_sample -  2021.12.08.
 
-A Flutter project to showcase how we can support multiple important `localization` and `accessibility` features.
-![en_to_hu_video](https://user-images.githubusercontent.com/15221068/145232602-2d2a1fd0-adba-48c1-9c76-6a1cd018a3ce.gif)
+A Flutter project demonstrating support for localization and accessibility features.
 
-## Getting Started
+[How to make your Flutter app accessible - 12/2021](https://youtu.be/VGfzT_AuVPI?t=3240)
+This is a short talk I gave at the December 2021 HWSW free! Meetup online event in Hungarian.
+- Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible).
+- You can watch it online [on YouTube](https://youtu.be/VGfzT_AuVPI?t=3240)
 
-This project is a starting point for a Flutter application.
+<p align="center">
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="400"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/15221068/145232602-2d2a1fd0-adba-48c1-9c76-6a1cd018a3ce.gif" alt="drawing" width="300"/>
+</p>
