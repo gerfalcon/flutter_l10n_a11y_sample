@@ -1,14 +1,25 @@
-# flutter_l10n_a11y_sample -  2021.12.08.
+#  How to make your Flutter app accessible -  2021.12.08.
+<p>
+  <a href="https://github.com/gerfalcon">
+    <img alt="GitHub: gerfalcon" src="https://img.shields.io/github/followers/gerfalcon?label=Follow&style=social" target="_blank" />
+  </a>
+  <a href="https://twitter.com/SandroMaglione">
+    <img alt="Twitter: gerfalcon" src="https://img.shields.io/twitter/follow/GerfalconVogel?style=social" target="_blank" />
+  </a>
+</p>
+
 
 A Flutter project demonstrating support for localization and accessibility features and used for the following [How to make your Flutter app accessible - 12/2021](https://youtu.be/VGfzT_AuVPI?t=3240) talk I gave at the December 2021 HWSW free! Meetup online event in Hungarian.
 - Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible).
 - Recording on [YouTube](https://youtu.be/VmB_KLk28f8?t=5)
+Impact: 1250+ online views
 
-<p align="center">
+
+<p>
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="400"/>
 </p>
 
-## End result
+## Sample app
 <p align="left">
 <img src="https://user-images.githubusercontent.com/15221068/145232602-2d2a1fd0-adba-48c1-9c76-6a1cd018a3ce.gif" alt="drawing" width="300"/>
 </p>
